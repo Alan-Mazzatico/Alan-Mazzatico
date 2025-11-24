@@ -2,7 +2,7 @@
 
 # Hi, I’m Alan
 
-A 30-year-old Italian now back in Italy after spending several years around, Berlin and Melbourne.
+A 31-year-old Italian now back in Italy after spending several years around, Berlin and Melbourne.
 I’m focused on building my skills in software development, mainly working with **Python, C++, and web technologies.**
 I like experimenting, learning by doing, and creating things — and if they actually work, even better.
 If not… well, at least I learned what not to do next time.
