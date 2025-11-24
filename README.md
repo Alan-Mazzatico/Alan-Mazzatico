@@ -1,16 +1,20 @@
-## Hi there 👋
+👤 About Me
 
-<!--
-**Alan-Mazzatico/Alan-Mazzatico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Alan
 
-Here are some ideas to get you started:
+A 30-year-old Italian now back in Italy after spending several years around, Berlin and Melbourne.
+I’m focused on building my skills in software development, mainly working with **Python, C++, and web technologies.**
+I like experimenting, learning by doing, and creating things — and if they actually work, even better.
+If not… well, at least I learned what not to do next time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My interests include:
+
+- Programming (Python, C++, web dev)
+- AI and technology
+- DIY projects & punk-influenced design
+- Language learning (besides programming languages, Portuguese)
+
+Right now, my main priority is coding: building projects, improving my knowledge, and developing a solid foundation in tech.
+
+#### Everything on this GitHub is part of that journey — simple, direct, and always evolving.
+
