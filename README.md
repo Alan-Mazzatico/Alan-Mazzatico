@@ -11,8 +11,8 @@ If not… well, at least I learned what not to do next time.
 
 - Programming (Python, C++, web dev)
 - AI and technology
-- DIY projects & punk-influenced design
-- Language learning (besides programming languages, Portuguese)
+- Biology, neuroscience, and exploring how the brain works
+ (hoping one day to combine computer science with these fields)
 
 Right now, my main priority is coding: building projects, improving my knowledge, and developing a solid foundation in tech.
 
